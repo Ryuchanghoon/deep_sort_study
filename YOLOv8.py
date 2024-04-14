@@ -8,7 +8,7 @@ from tracker import tracker
 
 
 
-video_path = os.path.join('.', 'data', '_____')
+video_path = os.path.join('.', 'data', 'test.mp4')
 
 video_output_path = os.path.join('.', 'output.mp4')
 
