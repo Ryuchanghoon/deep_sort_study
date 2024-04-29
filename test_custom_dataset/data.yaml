@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: test_custom_dataset/train/images
+val: test_custom_dataset/valid/images
 
 nc: 2
 names: ['CoW', 'chanterelle']
